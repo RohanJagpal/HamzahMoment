@@ -1,0 +1,8 @@
+name: HamzahMoment
+version: '${project.version}'
+main: xyz.rjdev.hamzahmoment.HamzahMoment
+api-version: 1.19
+prefix: RJDEV
+authors: [ RohanJagpal ]
+description: Don't die to fall damage, everyone will find out you just experienced a Hamzah moment.
+website: https://rjdev.xyz/
